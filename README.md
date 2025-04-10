@@ -15,6 +15,7 @@
 
 Navigate the directory structure to find the tools you need: 
 /devops-cheatsheet/
+-
 ├── README.md
 -
 ├── CONTRIBUTING.md
@@ -49,6 +50,7 @@ Navigate the directory structure to find the tools you need:
 │   ├── ELK-Stack.md
 │   ├── CloudWatch.md
 │   └── Nagios.md
+-
 ├── Security/
 │   ├── Trivy.md
 │   ├── SonarQube.md
