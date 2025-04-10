@@ -56,4 +56,5 @@
   - Consul.md
   - Linkerd.md
 
+# 📚 Cheatsheet Categories
 
