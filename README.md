@@ -130,4 +130,7 @@ Whether you're **automating deployments**, **managing cloud infrastructure**, or
 > 2. **Use the Cheatsheets**: Each cheatsheet is designed to provide quick access to the most important commands and concepts.  
 > 3. **Contribute**: Found something missing? Want to share your own tips? Check out our [Contributing Guidelines](#).
 
+# 🤝 Contributions Welcome!
+## 💡 This is a community-driven project! If you have insights, fixes, or new tools to share, your contributions are highly valued.
 
+## 🔥 Want to contribute? Check out the CONTRIBUTING.md file.
