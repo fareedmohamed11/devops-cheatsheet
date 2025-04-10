@@ -16,24 +16,33 @@
 Navigate the directory structure to find the tools you need: 
 /devops-cheatsheet/
 ├── README.md
---
+-
 ├── CONTRIBUTING.md
---
+-
 ├── CI-CD/
---
+-
 │   ├── Jenkins.md
---
+-
 │   ├── GitHub-Actions.md
-
+-
 │   ├── GitLab-CI.md
+-
 │   └── CircleCI.md
+-
 ├── Containerization/
+-
 │   ├── Docker.md
+-
 │   ├── Kubernetes.md
+-
 │   ├── CRI-O.md
+-
 │   ├── OpenShift.md
+-
 │   ├── Helm.md
+-
 │   └── Podman.md
+-
 ├── Monitoring/
 │   ├── Prometheus.md
 │   ├── Grafana.md
