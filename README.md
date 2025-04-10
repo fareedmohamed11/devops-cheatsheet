@@ -11,7 +11,7 @@
  ## ✅ Structured & Easy to Navigate: Find what you need in seconds.
  ## ✅ Regularly Updated: We keep it fresh with new tools and best practices. 
 
-# Repository Overview
+# 📂 Repository Overview
 
 Navigate the directory structure to find the tools you need: 
 /devops-cheatsheet/
