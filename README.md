@@ -134,3 +134,11 @@ Whether you're **automating deployments**, **managing cloud infrastructure**, or
 ## 💡 This is a community-driven project! If you have insights, fixes, or new tools to share, your contributions are highly valued.
 
 ## 🔥 Want to contribute? Check out the [CONTRIBUTING.md](https://github.com/fareedmohamed11/devops-cheatsheet/blob/29ec759a27f41c0e8a11a0c5e76dfc0f66ce7538/CONTRIBUTING.md)  file.
+
+## 👤 About Me
+
+Hi there! I'm **Fareed Mohamed**, passionate about DevOps, cloud infrastructure, and automation. Feel free to connect with me or check out my work:
+
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/fareed-mohamed-412031282)  
+- 💻 [GitHub Profile](https://github.com/fareedmohamed11)  
+- 📞 Phone: 01011632634
