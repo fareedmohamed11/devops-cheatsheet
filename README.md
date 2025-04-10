@@ -133,4 +133,4 @@ Whether you're **automating deployments**, **managing cloud infrastructure**, or
 # 🤝 Contributions Welcome!
 ## 💡 This is a community-driven project! If you have insights, fixes, or new tools to share, your contributions are highly valued.
 
-## 🔥 Want to contribute? Check out the CONTRIBUTING.md file.
+## 🔥 Want to contribute? Check out the [CONTRIBUTING.md](https://github.com/fareedmohamed11/devops-cheatsheet/blob/29ec759a27f41c0e8a11a0c5e76dfc0f66ce7538/CONTRIBUTING.md)  file.
