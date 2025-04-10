@@ -58,3 +58,56 @@
 
 # 📚 Cheatsheet Categories
 
+## 🔵 CI/CD Automation
+Boost deployment speed with continuous integration & continuous deployment:
+- 🚀 [Jenkins](https://www.jenkins.io/)
+- 🚀 [GitHub Actions](https://github.com/features/actions)
+- 🚀 [GitLab CI](https://docs.gitlab.com/ee/ci/)
+- 🚀 [CircleCI](https://circleci.com/)
+
+## 🔵 Containerization & Orchestration
+Build, manage, and deploy containers effortlessly:
+- 🔹 [Docker](https://www.docker.com/)
+- 🔹 [Kubernetes](https://kubernetes.io/)
+- 🔹 [CRI-O](https://cri-o.io/)
+- 🔹 [OpenShift](https://www.openshift.com/)
+- 🔹 [Helm](https://helm.sh/)
+- 🔹 [Podman](https://podman.io/)
+
+## 🔵 Monitoring
+Track and monitor your systems effectively:
+- 🔹 [Prometheus](https://prometheus.io/)
+- 🔹 [Grafana](https://grafana.com/)
+- 🔹 [ELK Stack](https://www.elastic.co/what-is/elk-stack)
+- 🔹 [CloudWatch](https://aws.amazon.com/cloudwatch/)
+- 🔹 [Nagios](https://www.nagios.org/)
+
+## 🔵 Security
+Enhance security and compliance:
+- 🔹 [Trivy](https://aquasecurity.github.io/trivy/)
+- 🔹 [SonarQube](https://www.sonarqube.org/)
+- 🔹 [AquaSec](https://www.aquasec.com/)
+- 🔹 [HashiCorp Vault](https://www.vaultproject.io/)
+
+## 🔵 Version Control
+Manage your code repositories efficiently:
+- 🔹 [GitLab](https://about.gitlab.com/)
+- 🔹 [GitHub](https://github.com/)
+- 🔹 [Bitbucket](https://bitbucket.org/)
+
+## 🔵 Cloud
+Leverage cloud platforms for scalability:
+- 🔹 [AWS](https://aws.amazon.com/)
+- 🔹 [Azure](https://azure.microsoft.com/)
+- 🔹 [Ansible](https://www.ansible.com/)
+- 🔹 [GCP](https://cloud.google.com/)
+- 🔹 [Kubernetes on AWS](https://aws.amazon.com/eks/)
+- 🔹 [Terraform](https://www.terraform.io/)
+
+## 🔵 Networking
+Optimize and secure your network:
+- 🔹 [Istio](https://istio.io/)
+- 🔹 [Envoy](https://www.envoyproxy.io/)
+- 🔹 [Consul](https://www.consul.io/)
+- 🔹 [Linkerd](https://linkerd.io/)
+
