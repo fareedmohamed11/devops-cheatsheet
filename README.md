@@ -14,47 +14,46 @@
 # 📂 Repository Overview
 
 /devops-cheatsheet/
-├── README.md
-├── CONTRIBUTING.md
-├── CI-CD/
-│   ├── Jenkins.md
-│   ├── GitHub-Actions.md
-│   ├── GitLab-CI.md
-│   └── CircleCI.md
-├── Containerization/
-│   ├── Docker.md
-│   ├── Kubernetes.md
-│   ├── CRI-O.md
-│   ├── OpenShift.md
-│   ├── Helm.md
-│   └── Podman.md
-├── Monitoring/
-│   ├── Prometheus.md
-│   ├── Grafana.md
-│   ├── ELK-Stack.md
-│   ├── CloudWatch.md
-│   └── Nagios.md
-├── Security/
-│   ├── Trivy.md
-│   ├── SonarQube.md
-│   ├── AquaSec.md
-│   └── HashiCorp-Vault.md
-├── Version-Control/
-│   ├── GitLab.md
-│   ├── GitHub.md
-│   └── Bitbucket.md
-├── Cloud/
-│   ├── AWS.md
-│   ├── Azure.md
-│   ├── Ansible.md
-│   ├── GCP.md
-│   ├── Kubernetes-on-AWS.md
-│   └── Terraform.md
-└── Networking/
-    ├── Istio.md
-    ├── Envoy.md
-    ├── Consul.md
-    └── Linkerd.md
-
+- README.md
+- CONTRIBUTING.md
+- CI-CD/
+  - Jenkins.md
+  - GitHub-Actions.md
+  - GitLab-CI.md
+  - CircleCI.md
+- Containerization/
+  - Docker.md
+  - Kubernetes.md
+  - CRI-O.md
+  - OpenShift.md
+  - Helm.md
+  - Podman.md
+- Monitoring/
+  - Prometheus.md
+  - Grafana.md
+  - ELK-Stack.md
+  - CloudWatch.md
+  - Nagios.md
+- Security/
+  - Trivy.md
+  - SonarQube.md
+  - AquaSec.md
+  - HashiCorp-Vault.md
+- Version-Control/
+  - GitLab.md
+  - GitHub.md
+  - Bitbucket.md
+- Cloud/
+  - AWS.md
+  - Azure.md
+  - Ansible.md
+  - GCP.md
+  - Kubernetes-on-AWS.md
+  - Terraform.md
+- Networking/
+  - Istio.md
+  - Envoy.md
+  - Consul.md
+  - Linkerd.md
 
 
