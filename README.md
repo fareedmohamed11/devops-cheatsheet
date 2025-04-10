@@ -14,14 +14,14 @@
 # 📂 Repository Overview
 
 Navigate the directory structure to find the tools you need: 
-/devops-cheatsheet/
+**/devops-cheatsheet/
 ├── README.md
 ├── CONTRIBUTING.md
 ├── CI-CD/
 │   ├── Jenkins.md
 │   ├── GitHub-Actions.md
 │   ├── GitLab-CI.md
-│   └── CircleCI.md
+│   └── CircleCI.md**
 -
 ├── Containerization/
 │   ├── Docker.md
@@ -62,7 +62,7 @@ Navigate the directory structure to find the tools you need:
     ├── Envoy.md
     ├── Consul.md
     └── Linkerd.md
-    -
+  -
 
 
 
